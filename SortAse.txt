@@ -1,0 +1,25 @@
+public class SortAse{
+publiv static void main(string []args){
+int[]arr=new int[]{(5,2,8,1,7,1)};
+int temp=0;
+
+
+system.out.println("element of original array");
+for( int i=0;i<array length;i++;){
+system.out.println(arr[i]+"");
+}
+for( int i=0;i<array length;i++;){
+for( int i+1;j<array length;i++;){
+if (arr[i]>arr>arr[j]){
+temp=arry[i];
+
+arr[j]=temp[i];
+}
+}
+}
+system.out.prinln;
+system.out.prinln("element of array sorting in array:");
+for(int i=0;i<arr.length i++){
+system .out.println(arr[r]+"");
+}
+}
